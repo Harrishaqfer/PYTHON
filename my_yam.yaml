@@ -1,0 +1,23 @@
+'2022':
+- '01':
+  - clk: 9
+    con: 3
+    eng: 8
+    imp: 10
+    total: 37
+    vid: 7
+  '02':
+  - clk: 6
+    con: 4
+    eng: 9
+    imp: 12
+    total: 39
+    vid: 8
+'2023':
+- '01':
+  - clk: 7
+    con: 5
+    eng: 11
+    imp: 14
+    total: 46
+    vid: 9
